@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kirti1902/Projects](https://github.com/Kirti1902/Projects)
 
-- 💬 Ask me about **React, Python ,Django, C++ , JAVA**
+- 💬 Ask me about **Techonolgy and Finace**
 
 - 📫 How to reach me **kirtichaudhary19@yahoo.com**
 
