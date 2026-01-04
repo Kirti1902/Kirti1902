@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirti Jitendrakumar Chaudhary</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [VM-Backend](https://github.com/HeerMehta/vmbackend)
+- 🔭 I’m currently working on [ImpactRun_smart-test-runner](https://github.com/Kirti1902/ImpactRun_smart-test-runner)
 
-- 🌱 I’m currently learning **React-Native, jQuery**
+- 🌱 I’m currently learning **Python, Automation Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kirti1902/Projects](https://github.com/Kirti1902/Projects)
 
