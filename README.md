@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kirtichaudhary19@yahoo.com**
 
-- 📄 Know about my experiences [Resume][https://drive.google.com/file/d/131AB__O47_A9QI34J8tqX8Y8qEFMj-Jo/view?usp=sharing](https://drive.google.com/file/d/131AB__O47_A9QI34J8tqX8Y8qEFMj-Jo/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/131AB__O47_A9QI34J8tqX8Y8qEFMj-Jo/view?usp=drivesdk)
 
 - ⚡ Fun fact **Here's a fun fact about me as a coder: I once accidentally created a program that generated infinite loops because I forgot to include an exit condition. Let's just say my computer wasn't too happy with me until I fixed it!**
 
