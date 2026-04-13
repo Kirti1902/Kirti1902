@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [ImpactRun_smart-test-runner](https://github.com/Kirti1902/ImpactRun_smart-test-runner)
 
-- 🌱 I’m currently learning **Python, Automation Testing**
+- 🌱 I’m currently learning **Python, APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kirti1902/Projects](https://github.com/Kirti1902/Projects)
 
-- 💬 Ask me about **Techonolgy and Finace**
+- 💬 Ask me about **Techonolgy and Finance**
 
 - 📫 How to reach me **kirtichaudhary19@yahoo.com**
 
